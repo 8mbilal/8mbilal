@@ -25,3 +25,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&theme=dark)](https://git.io/streak-stats)
 
 
+![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-456&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
+![Bilal's's github activity graph](https://github.com/Muhammad-Bilal-456/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
