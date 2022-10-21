@@ -1,10 +1,10 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 
 <h3 align="center">I am a passionate Software Engineering Student from Pakistan.</h3>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💻 Studying Software Engineering from PUCIT,Lahore,Pakistan.
 
