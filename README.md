@@ -27,4 +27,4 @@
 
 ![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-456&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
-![Akash's github activity graph](https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Bilal's github activity graph](https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
