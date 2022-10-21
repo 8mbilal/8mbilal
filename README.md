@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Bilal-456&label=visitors&color=0e75b6&style=flat" alt="Muhammad-Bilal-456" /> </p>
 <p>
 </p>
-• 💻 Studying Software Engineering from 𝐏𝐔𝐂𝐈𝐓.
-
+• 💻 I'm Studying Software Engineering from 𝐏𝐔𝐂𝐈𝐓.
 • ⚡ I’m currently learning 𝐂++ ,𝐇𝐭𝐦𝐥 &𝐂𝐒𝐒.
+  🎯 I’m focusing on 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
 <p></p>
 <p></p>
 <p></p>
@@ -25,3 +25,12 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&locale=en" alt="Muhammad-Bilal-456" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&" alt="Muhammad-Bilal-456" /></p>
+### 🏅 Hacktoberfest 2022
+
+![Hacktoberfest 2022(https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansi007&layout=compact)](https://github.com/Muhammad-Bilal-456/github-readme-stats)
