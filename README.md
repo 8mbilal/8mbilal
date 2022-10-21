@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Bilal-456&label=visitors&color=0e75b6&style=flat" alt="Muhammad-Bilal-456" /> </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- - 💻 I'm a passionate 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 & studying from 𝐏𝐔𝐂𝐈𝐓.
 
- - ⚡ I’m currently learning 𝐂++, 𝐇𝐭𝐦𝐥 & 𝐂𝐒𝐒.
+### 🚀 About Me
+ - 💻 A passionate 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 & studying from 𝐏𝐔𝐂𝐈𝐓.
 
- - 🎯 I’m focusing on 𝐖𝐞𝐛 & 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
+ - ⚡ Currently learning 𝐂++, 𝐇𝐭𝐦𝐥 & 𝐂𝐒𝐒.
+
+ - 🎯 Focusing on 𝐖𝐞𝐛 & 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
