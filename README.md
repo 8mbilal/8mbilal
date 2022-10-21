@@ -8,7 +8,7 @@
  - 🎯 Focusing on 𝐖𝐞𝐛 & 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/m_Bilal456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Muhammad-Bilal-456" height="30" width="40" /></a>
+<a href="https://www.github.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Muhammad-Bilal-456" height="30" width="40" /></a>
  <a href="https:/www.github.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muhammad-Bilal-456" height="30" width="40" /></a>
  <a href="https:/www.github.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Muhammad-Bilal-456" height="30" width="40" /></a>
 <a href="https://www.github.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad-Bilal-456" height="28" width="37" /></a>
