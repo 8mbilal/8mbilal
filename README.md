@@ -4,13 +4,12 @@
 
 <h3 align="center">I am a passionate Software Engineering Student from Pakistan.</h3>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
-- 💻 Studying Software Engineering from PUCIT,Lahore,Pakistan.
+- 💻 Studying Software Engineering from ***PUCIT*.
 
-- 🌱 I’m currently learning **C++,C,Html,JavaScript and CSS.**
+- ⚡ I’m currently learning **C++ ,Html & CSS.*
 
-- 📫 How to reach me **https://www.linkedin.com/in/muhammad-bilal-shah-792440249/**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Bilal-456&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Bilal-456" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
