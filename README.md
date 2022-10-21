@@ -3,13 +3,11 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### 🚀 About Me
- - 💻 I'm a passionate student. 
+ - 💻 I'm a passionate Software Engineering Student from 𝐏𝐔𝐂𝐈𝐓.
 
- -    Studying Software Engineering from 𝐏𝐔𝐂𝐈𝐓.
+ - ⚡ I’m currently learning 𝐂++ ,𝐇𝐭𝐦𝐥 and 𝐂𝐒𝐒.
 
- • ⚡ I’m currently learning 𝐂++ ,𝐇𝐭𝐦𝐥 and 𝐂𝐒𝐒.
-
- • 🎯 I’m focusing on 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
+ - 🎯 I’m focusing on 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
