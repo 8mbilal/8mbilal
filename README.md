@@ -6,14 +6,14 @@
 
 - 💻 Studying Software Engineering from PUCIT,Lahore,Pakistan.
 
-- 🌱 I’m currently learning ** C++,C,Html,JavaScript and CSS.**
+- 🌱 I’m currently learning **C++,C,Html,JavaScript and CSS.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhammad-bilal-shah-792440249/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_Bilal456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Muhammad-Bilal-456" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zohaibshahid26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad-Bilal-456" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-bilal-shah-792440249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad-Bilal-456" height="30" width="40" /></a>
 <a href="https://fb.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muhammad-Bilal-456" height="30" width="40" /></a>
 <a href="https://instagram.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Muhammad-Bilal-456" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Muhammad-Bilal-456" height="30" width="40" /></a>
