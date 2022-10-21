@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Bilal-456&label=visitors&color=0e75b6&style=flat" alt="Muhammad-Bilal-456" /> </p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="center">I am a passionate Software Engineering Student from Pakistan.</h3>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-
-<p></p>
 ### 🚀 About Me
+
 • 💻 I'm Studying Software Engineering from 𝐏𝐔𝐂𝐈𝐓.
 
 • ⚡ I’m currently learning 𝐂++ ,𝐇𝐭𝐦𝐥 and 𝐂𝐒𝐒.
 
 • 🎯 I’m focusing on 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
-<p></p>
-<p></p>
-<p></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_Bilal456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Muhammad-Bilal-456" height="30" width="40" /></a>
@@ -28,5 +24,3 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-456&layout=compact)](https://github.com/Muhammad-Bilal-456/github-readme-stats)
