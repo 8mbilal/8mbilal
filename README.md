@@ -24,6 +24,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&theme=highcontrast)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&theme=merko)](https://git.io/streak-stats)
 
-![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-456&theme=react-dark&layout=compact&title_color=#A9B110&hide_border=true&area=true)
+![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-456&theme=merko&layout=compact&title_color=#A9B110&hide_border=true&area=true)
