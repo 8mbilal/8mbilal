@@ -26,4 +26,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&theme=merko)](https://git.io/streak-stats)
 
-![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-456&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%")
+![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-456&theme=react&area=true&hide_border=true#gh-light-mode-only& width="100%")
