@@ -20,16 +20,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></p>
 
 ### 🏅 Hacktoberfest 2022
-
 ![Hacktoberfest 2021](https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&theme=highcontrast)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&theme=algolia)](https://git.io/streak-stats)
 
-
-![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-456&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-
-<a href="https://github.com/Muhammad-Bilal-456">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Bilal-456&layout=compact&langs_count=8&theme=highcontrast" alt="Muhammad-Bilal-456"/>
-</a>
+![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-456&theme=react-dark&layout=compact&title_color=#A9B110&hide_border=true&area=true)
