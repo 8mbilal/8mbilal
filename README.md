@@ -24,7 +24,7 @@
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
-<p align="center">
+<p align="right">
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&theme=highcontrast)
 
