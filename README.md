@@ -25,8 +25,8 @@
 <h2 align="centre"><i>⚙️ GitHub Analytics</i></h2>
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&theme=highcontrast)
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&theme=merko)](https://git.io/streak-stats)
-
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&theme=merko)]
+ 
 <h2 align='center'><i><a href="https://github.com/Muhammad-Bilal-456/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <a href="https://github.com/Muhammad-Bilal-456/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-456&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
