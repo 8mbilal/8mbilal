@@ -30,3 +30,6 @@
 
 ![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-456&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
+<a href="https://github.com/Muhammad-Bilal-456">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Bilal-456&layout=compact&langs_count=8&theme=algolia" alt="Muhammad-Bilal-456"/>
+</a>
