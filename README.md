@@ -26,6 +26,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&theme=merko)](https://git.io/streak-stats)
 
+<h2 align='center'><i><a href="https://github.com/Muhammad-Bilal-456/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <a href="https://github.com/Muhammad-Bilal-456/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-456&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
