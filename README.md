@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Bilal-456&label=visitors&color=0e75b6&style=flat" alt="Muhammad-Bilal-456" /> </p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="250" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
 
 ### 🚀 About Me:
  - 💻 A passionate 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 student at 𝐏𝐔𝐂𝐈𝐓.
