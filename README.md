@@ -23,13 +23,10 @@
 
 ![Hacktoberfest 2021](https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png)
 
-<h2 align='center'><i>⚙️ GitHub Analytics</i></h2>
+<h2 align='left'><i>⚙️ GitHub Analytics</i></h2>
 
-<p align='center'>
- 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&theme=highcontrast)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&theme=merko)]
- </p>
  
 <h2 align='center'><i><a href="https://github.com/Muhammad-Bilal-456/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <a href="https://github.com/Muhammad-Bilal-456/github-readme-activity-graph#gh-light-mode-only">
