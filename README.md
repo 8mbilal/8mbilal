@@ -6,10 +6,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="425" height="250" />
 
 
-<a href="https://github.com/Muhammad-Bilal-456" align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-456&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&
-custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Bilal-456"/> </p>
 
 
@@ -34,7 +30,11 @@ custom_title=Top%20%Languages" alt="Top Languages" /></a>
  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-  
+
+
+  <a href="https://github.com/Muhammad-Bilal-456" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-456&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&
+custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <h3 align="left">🌍 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h3>
 <p align="left">
