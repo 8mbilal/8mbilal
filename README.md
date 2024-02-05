@@ -6,6 +6,10 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="425" height="250" />
 
 
+<a href="https://github.com/Muhammad-Bilal-456" align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-456&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&
+custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Bilal-456"/> </p>
 
 
@@ -48,7 +52,8 @@
 
 
 <h2 align='left'><i>📶 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬</i></h2>
-<a href="http://www.github.com/Muhammad-Bilal-456"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=00ffff&bg_color=000000"/></a>
+<a href="http://www.github.com/Muhammad-Bilal-456"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=00ffff&bg_color=000000" /></a>
+
 <a href="http://www.github.com/Muhammad-Bilal-456"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&stroke=ffffff&background=000000&ring=3382ed&fire=00ffff&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=
 00ffff&hide_border=true%22" /></a>
 
@@ -56,6 +61,3 @@
 <h2 align='center'><i><a href="https://github.com/Muhammad-Bilal-456/github-readme-activity-graph">📈 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡</i></h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Bilal-456&theme=react-dark&radius=10&area-color=3382ed" width="100%">
 </a>
-
-
-<a href="https://github.com/Muhammad-Bilal-456" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-456&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
