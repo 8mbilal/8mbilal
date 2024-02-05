@@ -1,14 +1,16 @@
-<h1 align="center">𝐇𝐢 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)𝐈'𝐦 𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐁𝐢𝐥𝐚𝐥!</h1>
+<h1 align="center">
+ 
+ 𝐇𝐢 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)𝐈'𝐦 𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐁𝐢𝐥𝐚𝐥!</h1>
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="425" height="250" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Bilal-456"/> </p>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="250" />
-
-
 ###  🔎 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
- - 💻 A passionate 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 undergraduate student at 𝐏𝐔𝐂𝐈𝐓.
+ - 💻 A passionate 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 undergraduate at 𝐏𝐔𝐂𝐈𝐓.
  - ⚡ Currently learning 𝐑𝐞𝐚𝐜𝐭, .𝐍𝐄𝐓 & 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠.
  - 🎯 Focusing on 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
 
@@ -36,8 +38,7 @@
  <a href="https://github.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="Muhammad-Bilal-456" width="32" height="40" /></a>
  <a href="https://github.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muhammad-Bilal-456" height="32" width="40" /></a>
  <a href="https://github.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Muhammad-Bilal-456" height="32" width="40" /></a>
- <a href="https://github.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme
-generator/main/public/icons/socials/twitter.svg" alt="Muhammad-Bilal-456" width="32" height="40" /></a>
+ <a href="https://github.com/Muhammad-Bilal-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Muhammad-Bilal-456" width="32" height="40" /></a>
 </p>
 
 
@@ -47,9 +48,9 @@ generator/main/public/icons/socials/twitter.svg" alt="Muhammad-Bilal-456" width=
 
 
 <h2 align='left'><i>📶 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬</i></h2>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=00ffff&bg_color=000000)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&stroke=ffffff&background=000000&ring=3382ed&fire=00ffff&currStreakNum=ffffff&currStreakLabel=
-3382ed&sideNums=ffffff&sideLabels=ffffff&dates=00ffff&hide_border=true%22)
+<a href="http://www.github.com/Muhammad-Bilal-456"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=00ffff&bg_color=000000"/></a>
+<a href="http://www.github.com/Muhammad-Bilal-456"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&stroke=ffffff&background=000000&ring=3382ed&fire=00ffff&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=
+00ffff&hide_border=true%22" /></a>
 
  
 <h2 align='center'><i><a href="https://github.com/Muhammad-Bilal-456/github-readme-activity-graph">📈 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡</i></h2>
