@@ -1,10 +1,8 @@
----
-
 <h1 align="center">Hi there! 👋 I'm Muhammad Bilal</h1>
 
 <img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="425" height="250" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Bilal-456&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=8mbilal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 ### 🔍 About Me
 
@@ -31,17 +29,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
@@ -55,29 +47,31 @@
   <img width="12" />
 </div>
 
-<a href="https://github.com/Muhammad-Bilal-456">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-456&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="https://github.com/8mbilal">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8mbilal&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Most%Used%Languages" alt="Most Used Languages" />
 </a>
 
 ### 🌍 Connect with Me
-
-<div align="left">
-  <a href="https://github.com/Muhammad-Bilal-456" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="32" width="40" />
+<div align="left" style="font-size: 0;">
+  <a href="https://github.com/8mbilal" target="_blank" style="font-size: 16px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="32" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/Muhammad-Bilal-456" target="blank">
+  <a href="https://www.linkedin.com/in/8mbilal/" target="_blank" style="font-size: 16px;">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height="32" width="40" />
   </a>
-  <a href="https://www.facebook.com/Muhammad-Bilal-456" target="blank">
+  <a href="https://www.facebook.com/8mbilal" target="_blank" style="font-size: 16px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="32" width="40" />
   </a>
-  <a href="https://instagram.com/Muhammad-Bilal-456" target="blank">
+  <a href="https://www.instagram.com/8mbilal" target="_blank" style="font-size: 16px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="40" />
   </a>
-  <a href="https://twitter.com/Muhammad-Bilal-456" target="blank">
+  <a href="https://twitter.com/8mbilal" target="_blank" style="font-size: 16px;">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" height="32" width="40" />
   </a>
 </div>
+
+
+
 
 ### 🏅 Hacktoberfest 2022
 
@@ -89,16 +83,18 @@
 
 ### 📶 GitHub Analytics
 
-<a href="http://www.github.com/Muhammad-Bilal-456">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-456&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=00ffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
-</a>
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/8mbilal">
+    <img src="https://github-readme-stats.vercel.app/api?username=8mbilal&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=00ffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/8mbilal">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=8mbilal&stroke=ffffff&background=000000&ring=3382ed&fire=00ffff&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=00ffff&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
-<a href="http://www.github.com/Muhammad-Bilal-456">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-456&stroke=ffffff&background=000000&ring=3382ed&fire=00ffff&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=00ffff&hide_border=true" alt="GitHub Streak" />
-</a>
 
-<h2 align="center"><i><a href="https://github.com/Muhammad-Bilal-456/github-readme-activity-graph">📈 Activity Graph</a></i></h2>
+<h2 align="center"><i><a href="https://github.com/8mbilal/github-readme-activity-graph">📈 Activity Graph</a></i></h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Bilal-456&theme=react-dark&radius=10&area-color=3382ed" alt="Activity Graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=8mbilal&theme=react-dark&radius=10&area-color=3382ed" alt="Activity Graph" width="100%">
 
 ---
